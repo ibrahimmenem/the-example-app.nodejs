@@ -1,5 +1,12 @@
 Test API
 
+## [1.1.0](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.0.1...v1.1.0) (2021-12-09)
+
+
+### Features
+
+* **testfile:** 1 ([1d9b546](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/1d9b546311598484802103f01af8983d0d48794a))
+
 ### [1.0.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.0.0...v1.0.1) (2021-12-09)
 
 
