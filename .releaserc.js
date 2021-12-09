@@ -5,7 +5,11 @@ module.exports = {
     '@semantic-release/release-notes-generator',
     ['@semantic-release/changelog', {
       'changelogFile': 'CHANGELOG.md',
-      'changelogTitle': 'Maps API v2.0'
+      'changelogTitle': 'Test API'
+    }],
+    ['@semantic-release/npm', {
+      'npmPublish': false,
+      'tarballDir': 'dist',
     }],
     ['@semantic-release/git', {
       'assets': ['CHANGELOG.md', 'package.json', 'package-lock.json' ],
