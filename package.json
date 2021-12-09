@@ -36,6 +36,8 @@
     "pug": "~2.0.0-beta6"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "github:semantic-release/changelog",
+    "@semantic-release/git": "github:semantic-release/git",
     "cheerio": "^1.0.0-rc.2",
     "cookie": "^0.3.1",
     "eslint": "^4.18.1",
@@ -46,6 +48,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "jest": "^22.4.0",
     "nodemon": "^1.18.9",
+    "semantic-release": "^18.0.1",
     "supertest": "^3.0.0",
     "yargs": "^11.0.0"
   }
