@@ -1,3 +1,12 @@
+Test API
+
+### [1.0.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.0.0...v1.0.1) (2021-12-09)
+
+
+### Bug Fixes
+
+* **build:** add npm so it edits package.json ([2b34750](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/2b34750e9a399d0377b9e47ca799e154add33a33))
+
 Maps API v2.0
 
 ## 1.0.0 (2021-12-09)
