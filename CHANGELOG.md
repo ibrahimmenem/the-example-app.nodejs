@@ -1,5 +1,21 @@
 Test API
 
+## [2.0.0](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.1.0...v2.0.0) (2021-12-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* bla blu
+
+* feat(breaking): ([96799b8](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/96799b82a7c530ac77673fb25a6a196afff47c1d))
+
+## [1.1.0](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.0.1...v1.1.0) (2021-12-09)
+
+
+### Features
+
+* **testfile:** 1 ([1d9b546](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/1d9b546311598484802103f01af8983d0d48794a))
+
 ### [1.0.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.0.0...v1.0.1) (2021-12-09)
 
 
