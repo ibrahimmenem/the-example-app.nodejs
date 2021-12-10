@@ -1,5 +1,12 @@
 Test API
 
+## [2.1.0-next.3](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0-next.2...v2.1.0-next.3) (2021-12-10)
+
+
+### Bug Fixes
+
+* **file:** add new file ([4cfa155](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/4cfa1555dd3775ac2454b30815fa17486e4e82c0))
+
 ## [2.1.0-next.2](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0-next.1...v2.1.0-next.2) (2021-12-10)
 
 
