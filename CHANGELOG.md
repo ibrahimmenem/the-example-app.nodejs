@@ -1,5 +1,12 @@
 Test API
 
+### [2.1.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0...v2.1.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* **hotfix:** fake ([f5b3e21](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/f5b3e2105948f148b5c61b16f395c94c3667967f))
+
 ## [2.1.0](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.0.0...v2.1.0) (2021-12-10)
 
 
