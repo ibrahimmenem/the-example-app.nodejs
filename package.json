@@ -1,6 +1,6 @@
 {
   "name": "example-contentful-theExampleApp-js",
-  "version": "2.1.2-next.1",
+  "version": "2.1.2",
   "private": true,
   "scripts": {
     "start:watch": "nodemon ./bin/www --ignore public/",
