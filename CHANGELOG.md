@@ -1,3 +1,13 @@
+Main API
+
+### [2.1.2-next.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.1...v2.1.2-next.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* **file:** add new file ([4cfa155](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/4cfa1555dd3775ac2454b30815fa17486e4e82c0))
+* **git:** solve conflicts ([e5b0100](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/e5b0100ef2956f7205675bf97bb08c75a6fd074c))
+
 Test API
 
 ## [2.1.1-next.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0...v2.1.1-next.1) (2021-12-10)
