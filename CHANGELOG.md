@@ -1,5 +1,12 @@
 Test API
 
+## [2.1.0-next.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.0.0...v2.1.0-next.1) (2021-12-10)
+
+
+### Features
+
+* **test:** move to prerelease ([8876d74](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/8876d742a9a7ac4438b083e08fedfe64dc908a05))
+
 ## [2.0.0](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v1.1.0...v2.0.0) (2021-12-10)
 
 
