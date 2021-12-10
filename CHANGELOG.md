@@ -1,11 +1,17 @@
 Test API
 
-## [2.1.0-next.3](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0-next.2...v2.1.0-next.3) (2021-12-10)
+## [2.1.1-next.1](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0...v2.1.1-next.1) (2021-12-10)
 
 
 ### Bug Fixes
 
 * **file:** add new file ([4cfa155](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/4cfa1555dd3775ac2454b30815fa17486e4e82c0))
+* **hotfix:** fake ([f5b3e21](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/f5b3e2105948f148b5c61b16f395c94c3667967f))
+* **bla:** test ([5b11bf7](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/5b11bf705436fa64540b99b1135c6c174fe800d3))
+
+### Features
+
+* **test:** move to prerelease ([8876d74](https://github.com/ibrahimmenem/the-example-app.nodejs/commit/8876d742a9a7ac4438b083e08fedfe64dc908a05))
 
 ## [2.1.0-next.2](https://github.com/ibrahimmenem/the-example-app.nodejs/compare/v2.1.0-next.1...v2.1.0-next.2) (2021-12-10)
 
